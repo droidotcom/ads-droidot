@@ -22,7 +22,7 @@ import com.google.android.gms.ads.nativead.NativeAdView
  * Created by droidot publisher on 4/16/2022 *
  ********************************************/
 
-object Admob {
+object AdmobShow {
     private var nativeAd: NativeAd? = null
     var adViewAdmob: AdView? = null
     var mInterstitialAd: InterstitialAd? = null
